@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="TestScenarios">
+	<test name="Scenarios">
+		<packages>
+			<package name="com.sgtesting.pageobjectmodelassignment"></package>
+		</packages>
+	</test>
+</suite>

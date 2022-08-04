@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Testcases">
+    <test name="Scenarios">
+		<classes>
+			<class name="com.sgtesting.pageobjectmodelassignment.CreateUserScenario"></class>
+			<class name="com.sgtesting.pageobjectmodelassignment.ModifyUserScenario"></class>
+			<class name="com.sgtesting.pageobjectmodelassignment.CreateCustomerScenario"></class>
+			<class name="com.sgtesting.pageobjectmodelassignment.ModifyCustomerScenario"></class>
+			<class name="com.sgtesting.pageobjectmodelassignment.CreateProjectScenario"></class>
+			<class name="com.sgtesting.pageobjectmodelassignment.ModifyProjectScenario"></class>
+			<class name="com.sgtesting.pageobjectmodelassignment.CreateTaskScenario"></class>
+		</classes>
+    </test>
+</suite>
